@@ -3,12 +3,12 @@
 import React, { useRef, useState, useEffect } from "react";
 // import Tooltip from "../../shared/Tooltip";
 // import { GoQuestion } from "react-icons/go";
-import Heatmap from "./HeatMap/Heatmap";
+import Heatmap from "./Heatmap/Heatmap";
 import {
   HeatmapColors,
   HeatmapTextColors,
   HeatmapBreakpoints,
-} from "./HeatMap/HeatmapColors";
+} from "./Heatmap/HeatmapColors";
 import { FiMaximize2, FiMinimize2 } from "react-icons/fi";
 import { Typography } from "../../common/Typography";
 
