@@ -1,0 +1,60 @@
+{
+    "status": true,
+    "instrument_code": "SQURPHARMA",
+    "count": 10,
+    "data": [
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-04-30 09:50:02",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "(Q3 Un-audited): Consolidated EPS was Tk. 6.73 for January-March 2026 as against Tk. 6.83 for January-March 2025; Consolidated EPS was Tk. 23.29 for July 2025-March 2026 as against Tk. 21.15 for July 2024-March 2025. Consolidated NOCFPS was Tk. 17.54 for July 2025-March 2026 as against Tk. 11.90 for July 2024-March 2025. Consolidated NAV per share was Tk. 169.79 as on March 31, 2026 and Tk. 157.88 as on June 30, 2025. Reasons for Deviation in EPS and NOCFPS: Last year, revenue growth was restrained due to socio-political factors. However, in current year, not only has the business recovered from that slowdown, but it has also experienced a strong upward momentum in revenue performance consequently, both EPS and NOCFPS have recorded notable and healthy growth."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-04-26 14:16:00",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "As per Regulation 16(1) of the Dhaka Stock Exchange (Listing) Regulations, 2015, the Company has informed that a meeting of the Board of Directors will be held on April 29, 2026 at 3:00 pm to consider, among others, Un-Audited Financial Statements for the Third Quarter (Q3) period ended March 31, 2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-23 09:35:28",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mr. Samuel S Chowdhury, Chairman of the Company, has further informed that he has completed his buying of 2,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 20.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-05 10:11:13",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mrs. Ratna Patra, one of the Directors of the Company, has further informed that she has completed her buying of 1,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 15.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-05 10:11:13",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mrs. Ratna Patra, one of the Directors of the Company, has further informed that she has completed her buying of 1,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 15.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-05 10:11:13",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mrs. Ratna Patra, one of the Directors of the Company, has further informed that she has completed her buying of 1,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 15.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-05 10:10:14",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mr. Tapan Chowdhury, Managing Director of the company, has further informed that he has completed his buying of 2,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 5.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-05 10:10:14",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mr. Tapan Chowdhury, Managing Director of the company, has further informed that he has completed his buying of 2,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 5.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-02-05 10:10:14",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mr. Tapan Chowdhury, Managing Director of the company, has further informed that he has completed his buying of 2,000,000 shares of the company at prevailing market price through Dhaka Stock Exchange PLC. as per declaration disseminated on 5.01.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-01-15 11:27:47",
+            "MAN_ANNOUNCEMENT_PREFIX": "SQURPHARMA",
+            "MAN_ANNOUNCEMENT": "Mrs. Ratna Patra, one of the Directors of the Company, has expressed her intention to buy 10,00,000 shares of the company at prevailing market price (in the Public and Block Market) through Dhaka Stock Exchange PLC. within next 30 working days."
+        }
+    ],
+    "page": 1,
+    "per_page": 10,
+    "source": "mixed"
+}

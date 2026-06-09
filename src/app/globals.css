@@ -1,0 +1,166 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme {
+  --font-sans: var(--font-general-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-bangla: var(--font-ador-noirrit), ui-sans-serif, system-ui, sans-serif;
+
+  /* --color-background: var(--primary-black); */
+  /* Terms of Service specific colors */
+  --color-light-green: #b7ff64;
+  --color-dark-teal: #061d1d;
+  --color-light-teal: #c3fe84;
+  --color-light-grey: #f7fafc;
+  --color-gray-thin: #eaebf433;
+
+  /* Terms of service font fallback */
+  --font-general-sans: var(--font-general-sans), "GeneralSans-Variable", "GeneralSans-Regular", sans-serif;
+
+  /* --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground); */
+
+  /* --color-border: var(--white15); */
+  --color-herobg:var(--secondary-green) ;
+  --color-herotext:var(--primary-white) ;
+  --color-herotextbg:var(--white15) ;
+
+  /* Animation for spinning gradient borders */
+  --animate-border-spin: border-spin 4s linear infinite;
+
+  @keyframes border-spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+  /* Animation for glossy skeleton shimmer */
+  --animate-shimmer: shimmer 2s infinite linear;
+
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+}
+
+@layer base {
+  :root {
+    /* --background: #000c0c;
+    --foreground: #0f2a16;
+
+    --primary: #3b82f6;
+    --primary-foreground: #ffffff;
+
+    --card: #ffffff;
+    --card-foreground: #0f172a;
+
+    --border: #e2e8f0; */
+
+    --primary-black: #000c0c;
+    --secondary-black: #0d1818;
+    --tertiary-black:#52525B;
+    --primary-white: #ffffff;
+    --secondary-white: #eaebf4;
+    --tertiary-white: #9da6ab;
+    --quaternary-white: #a1a1aa;
+
+    --primary-green: #212f2f;
+    --secondary-green: #163a38;
+    --tertiary-green: #b7ff64;
+    --forth-green: #213636;
+    --fifth-green: #9BF236;
+    --sixth-green: #192424;
+
+    --primary-red: #ff2c2c;
+
+    --white15: #ffffff26;
+  }
+
+  .dark {
+    /* --background: #020617;
+    --foreground: #f8fafc;
+
+    --primary: #6366f1;
+    --primary-foreground: #ffffff;
+
+    --card: #0f172a;
+    --card-foreground: #f8fafc;
+
+    --border: #1e293b; */
+    --primary-black: #000c0c;
+    --secondary-black: #0d1818;
+    --primary-white: #ffffff;
+    --secondary-white: #eaebf4;
+    --tertiary-white: #9da6ab;
+    --quaternary-white: #a1a1aa;
+
+    --primary-green: #212f2f;
+    --secondary-green: #163a38;
+    --tertiary-green: #b7ff64;
+    --forth-green: #213636;
+
+    --primary-red: #ff2c2c;
+  }
+
+  body {
+    background-color: var(--primary-black);
+    color: var(--secondary-white);
+    transition:
+      background-color 0.3s ease,
+      color 0.3s ease;
+  }
+}
+
+.hero-glow {
+  background:
+    radial-gradient(
+      ellipse at bottom center,
+      rgba(183, 255, 100, 0.9) 0%,
+      rgba(183, 255, 100, 0.4) 30%,
+      rgba(183, 255, 100, 0.08) 60%,
+      transparent 80%
+    );
+}
+
+/* Custom scrollbar styles */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 4px;
+}
+
+.scrollbar-thumb-gray-300::-webkit-scrollbar-thumb {
+  background: #1b867f;
+  border-radius: 4px;
+}
+
+.scrollbar-thumb-gray-300::-webkit-scrollbar-thumb:hover {
+  background: #1b867f;
+}
+
+.scrollbar-track-transparent::-webkit-scrollbar-track {
+  /* background: transparent; */
+  background: transparent;
+}
+
+/* For Firefox */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  /* scrollbar-color: ##061D1D transparent; */
+  scrollbar-color: #1b867f transparent;
+}
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+

@@ -1,0 +1,12 @@
+/* TradingView Advanced Chart container — parent must have explicit height */
+.advance-tv-root {
+  position: relative;
+}
+
+/* .advance-tv-container {
+  min-height: 400px;
+}
+
+.advance-tv-empty {
+  min-height: 120px;
+} */

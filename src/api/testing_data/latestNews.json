@@ -1,0 +1,506 @@
+{
+    "status": true,
+    "count": 100,
+    "data": [
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 13:47:05",
+            "MAN_ANNOUNCEMENT_PREFIX": "PROVATIINS",
+            "MAN_ANNOUNCEMENT": "The Company has informed that Mr. Shahadat Hussain, a Director of the Company passed away on November 05, 2024. His holding of 806,626 shares in the Company will be transmitted to his two nominees (50% each) by way of nomination as follows: Ms. Afsana Parvin, daughter of late Mr. Shahadat Hussain and a General Shareholder of the Company will receive 403,313 shares. Ms. Farhana Parvin Alo, daughter of late Mr. Shahadat Hussain and a General Shareholder of the Company will receive 403,313 shares."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 13:44:04",
+            "MAN_ANNOUNCEMENT_PREFIX": "SONARGAON",
+            "MAN_ANNOUNCEMENT": "(Repeat) In response to the DSE query dated June 02, 2026, the company has informed that there is no undisclosed price sensitive information of the company for recent unusual price hike and increase in volume of shares."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 13:42:53",
+            "MAN_ANNOUNCEMENT_PREFIX": "SKTRIMS",
+            "MAN_ANNOUNCEMENT": "(Repeat) (Q3 Un-audited): EPS was Tk. (0.90) for January-March 2025 as against Tk. 0.38 for January-March 2024; EPS was Tk. (2.21) for July 2024-March 2025 as against Tk. 1.25 for July 2023-March 2024. NOCFPS was Tk. (0.53) for July 2024-March 2025 as against Tk. 0.98 for July 2023-March 2024. NAV per share was Tk. 13.11 as on March 31, 2025 and Tk. 15.52 as on March 31, 2024."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 13:36:49",
+            "MAN_ANNOUNCEMENT_PREFIX": "TR1GSTGZCB",
+            "MAN_ANNOUNCEMENT": "(Cont. news of TR1GSTGZCB): No. of Securities Outstanding: 48,578; Issue Price\/Ref. value (BDT per sec.): 72,733.00; Face Value (BDT per Sec.): 128,000.00; Total Issue price\/Subscription value (BDT in crore): 353.322 and Total Face value\/ Issue size (BDT in crore): 621.798. Effective date of above value: June 14, 2026. (end)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 13:36:47",
+            "MAN_ANNOUNCEMENT_PREFIX": "TR1GSTGZCB",
+            "MAN_ANNOUNCEMENT": "Sreepur Township Limited, issuer of IFIC Guaranteed Sreepur Township Green Zero Coupon Bond-Tranche 01, has informed that as per the Redemption Payment Schedule of the Trust Deed, after redemption of Unit-32 of each lot, the Issue price\/Ref. Value and Face Value of each lot of Tranche 01 of IFIC Guaranteed Sreepur Township Green Zero Coupon Bond are as follows: (cont.)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 13:36:45",
+            "MAN_ANNOUNCEMENT_PREFIX": "TR1GSTGZCB",
+            "MAN_ANNOUNCEMENT": "Sreepur Township Limited, issuer of IFIC Guaranteed Sreepur Township Green Zero Coupon Bond-Tranche 01, has informed that the following shall be the Maturity Date, Record Date and Redemption Payment Date for the respective Bond Units: Redemption Unit: Unit 32 of each lot; Maturity Date: June 14, 2026, Record Date: June 11, 2026 and Redemption Payment Date: Within June 18, 2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:39:17",
+            "MAN_ANNOUNCEMENT_PREFIX": "TB2Y0626",
+            "MAN_ANNOUNCEMENT": "The Government Securities (02 Years BGTB 05\/06\/2026) will be delisted effective from 07.06.2026 due to completion of maturity."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:31:45",
+            "MAN_ANNOUNCEMENT_PREFIX": "TB15Y0626",
+            "MAN_ANNOUNCEMENT": "Record Date for entitlement of coupon payment of 15Y BGTB 15\/06\/2026 Government Securities is 14.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:15:22",
+            "MAN_ANNOUNCEMENT_PREFIX": "SOUTHEASTB",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 07.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:15:09",
+            "MAN_ANNOUNCEMENT_PREFIX": "RUPALIINS",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 07.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:14:25",
+            "MAN_ANNOUNCEMENT_PREFIX": "DBH",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 07.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:13:57",
+            "MAN_ANNOUNCEMENT_PREFIX": "NATLIFEINS",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will remain suspended on record date i.e., 07.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:13:26",
+            "MAN_ANNOUNCEMENT_PREFIX": "KARNAPHULI",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will remain suspended on record date i.e., 07.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:13:14",
+            "MAN_ANNOUNCEMENT_PREFIX": "DELTALIFE",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will remain suspended on record date i.e., 07.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 12:12:44",
+            "MAN_ANNOUNCEMENT_PREFIX": "PHENIXINS",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will be allowed only in the Spot Market and Block transaction will also be settled as per spot settlement cycle with cum benefit from 07.06.2026 to 08.06.2026 and trading of the shares will remain suspended on record date i.e., 09.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:49:44",
+            "MAN_ANNOUNCEMENT_PREFIX": "PREBPBOND",
+            "MAN_ANNOUNCEMENT": "The Premier Bank PLC. Issuer of Premier Bank Perpetual Bond has informed that a meeting of the Trustee of Premier Bank Perpetual Bond will be held on June 17, 2026 at 3:00 PM to fix the Interest Rate for payment to the Bondholders for the period from June 27, 2026 to December 26, 2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:48:18",
+            "MAN_ANNOUNCEMENT_PREFIX": "GLOBALINS",
+            "MAN_ANNOUNCEMENT": "As per Regulation 16(1) of the Dhaka Stock Exchange (Listing) Regulations, 2015, the Company has informed that a meeting of the Board of Directors will be held on June 11, 2026 at 3:00 pm to consider, among others, Un-Audited Financial Statements for the First Quarter (Q1) period ended March 31, 2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:44:18",
+            "MAN_ANNOUNCEMENT_PREFIX": "GLOBALINS",
+            "MAN_ANNOUNCEMENT": "As per Regulation 19(1) of the Dhaka Stock Exchange (Listing) Regulations, 2015, the Company has informed that a meeting of the Board of Directors will be held on June 11, 2026 at 3:00 PM to consider, among others, audited financial statements of the Company for the year ended December 31, 2025."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:41:55",
+            "MAN_ANNOUNCEMENT_PREFIX": "CAPITECGBF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 10.39 per unit on the basis of current market price and Tk. 11.02 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 1,618,262,841.22 on the basis of current market price and Tk. 1,715,141,570.39 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:41:17",
+            "MAN_ANNOUNCEMENT_PREFIX": "TRUSTB1MF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 6.74 per unit on the basis of current market price and Tk. 11.49 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 2,047,096,695.00 on the basis of current market price and Tk. 3,487,461,776.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:40:23",
+            "MAN_ANNOUNCEMENT_PREFIX": "POPULAR1MF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 7.31 per unit on the basis of current market price and Tk. 11.47 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 2,186,437,212.00 on the basis of current market price and Tk. 3,430,731,793.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:39:51",
+            "MAN_ANNOUNCEMENT_PREFIX": "VAMLRBBF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.07 per unit on the basis of current market price and Tk. 10.69 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 1,440,314,810.57 on the basis of current market price and Tk. 1,697,113,444.81 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:39:38",
+            "MAN_ANNOUNCEMENT_PREFIX": "PHPMF1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 7.15 per unit on the basis of current market price and Tk. 11.38 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 2,014,785,768.00 on the basis of current market price and Tk. 3,208,229,718.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:38:52",
+            "MAN_ANNOUNCEMENT_PREFIX": "IFIC1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.79 per unit on the basis of current market price and Tk. 11.71 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 1,418,543,942.00 on the basis of current market price and Tk. 2,133,162,005.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:38:10",
+            "MAN_ANNOUNCEMENT_PREFIX": "FBFIF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.40 per unit on the basis of current market price and Tk. 11.43 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 5,741,358,616.00 on the basis of current market price and Tk. 8,872,305,826.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:37:37",
+            "MAN_ANNOUNCEMENT_PREFIX": "CAPMIBBLMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.91 per unit on the basis of current market price and Tk. 11.34 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 528,496,861.40 on the basis of current market price and Tk. 758,350,785.25 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:37:23",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXIM1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.56 per unit on the basis of current market price and Tk. 11.59 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 1,082,928,351.00 on the basis of current market price and Tk. 1,660,147,636.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:36:56",
+            "MAN_ANNOUNCEMENT_PREFIX": "CAPMBDBLMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.36 per unit on the basis of current market price and Tk. 10.93 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 418,943,859.91 on the basis of current market price and Tk. 547,692,469.79 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:36:34",
+            "MAN_ANNOUNCEMENT_PREFIX": "EBLNRBMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 6.58 per unit on the basis of current market price and Tk. 11.37 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 1,475,227,180.00 on the basis of current market price and Tk. 2,549,912,264.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:34:22",
+            "MAN_ANNOUNCEMENT_PREFIX": "SEMLFBSLGF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.70 per unit on the basis of current market price and Tk. 11.75 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 707,420,535.00 on the basis of current market price and Tk. 857,237,338.77 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:33:45",
+            "MAN_ANNOUNCEMENT_PREFIX": "EBL1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 6.56 per unit on the basis of current market price and Tk. 11.54 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 949,320,714.00 on the basis of current market price and Tk. 1,670,450,015.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:32:48",
+            "MAN_ANNOUNCEMENT_PREFIX": "SEMLIBBLSF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.73 per unit on the basis of current market price and Tk. 11.79 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 972,577,186.29 on the basis of current market price and Tk. 1,178,825,058.85 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:32:41",
+            "MAN_ANNOUNCEMENT_PREFIX": "ABB1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 7.28 per unit on the basis of current market price and Tk. 11.70 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 1,740,372,338.00 on the basis of current market price and Tk. 2,797,674,606.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:31:00",
+            "MAN_ANNOUNCEMENT_PREFIX": "RELIANCE1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 11.38 per unit on the basis of current market price and Tk. 11.08 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 670,392,103.00 on the basis of current market price and Tk. 688,498,953.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:30:43",
+            "MAN_ANNOUNCEMENT_PREFIX": "1JANATAMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 6.24 per unit on the basis of current market price and Tk. 11.48 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 1,808,638,663.00 on the basis of current market price and Tk. 3,329,206,531.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:29:32",
+            "MAN_ANNOUNCEMENT_PREFIX": "GRAMEENS2",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 16.11 per unit on the basis of current market price and Tk. 10.85 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 2,939,266,004.00 on the basis of current market price and Tk. 1,978,344,745.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:16:05",
+            "MAN_ANNOUNCEMENT_PREFIX": "GLDNJMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.80 per unit on the basis of current market price and Tk. 11.30 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 979,766,452.61 on the basis of current market price and Tk. 1,130,299,661.66 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:15:04",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBAGRANI1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.70 per unit on the basis of current market price and Tk. 12.43 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 951,613,071.86 on the basis of current market price and Tk. 1,220,383,387.60 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:14:12",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBSONALI1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.76 per unit on the basis of current market price and Tk. 12.47 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 875,835,753.61 on the basis of current market price and Tk. 1,246,689,859.76 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:13:01",
+            "MAN_ANNOUNCEMENT_PREFIX": "IFILISLMF1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.39 per unit on the basis of current market price and Tk. 11.23 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 739,287,714.15 on the basis of current market price and Tk. 1,122,529,651.60 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:12:03",
+            "MAN_ANNOUNCEMENT_PREFIX": "PF1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.33 per unit on the basis of current market price and Tk. 12.12 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 499,630,140.37 on the basis of current market price and Tk. 727,006,337.46 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:11:27",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICB3RDNRB",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.14 per unit on the basis of current market price and Tk. 12.23 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 814,339,006.45 on the basis of current market price and Tk. 1,222,589,378.46 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:10:28",
+            "MAN_ANNOUNCEMENT_PREFIX": "PRIME1ICBA",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.23 per unit on the basis of current market price and Tk. 12.74 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 822,759,604.27 on the basis of current market price and Tk. 1,273,595,544.98 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:07:49",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBEPMF1S1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.93 per unit on the basis of current market price and Tk. 12.08 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 594,898,242.17 on the basis of current market price and Tk. 905,948,899.72 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:07:10",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBAMCL2ND",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.96 per unit on the basis of current market price and Tk. 13.10 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 447,919,735.65 on the basis of current market price and Tk. 654,782,321.15 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 11:06:05",
+            "MAN_ANNOUNCEMENT_PREFIX": "1STPRIMFMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 03, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.88 per unit on the basis of current market price and Tk. 15.03 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 177,507,921.80 on the basis of current market price and Tk. 300,500,767.99 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 10:44:02",
+            "MAN_ANNOUNCEMENT_PREFIX": "ROBI",
+            "MAN_ANNOUNCEMENT": "The Company has informed that it has disbursed the Cash Dividend for the year ended December 31, 2025 to the respective shareholders."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 10:08:10",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBIBANK",
+            "MAN_ANNOUNCEMENT": "The company has informed that the Board of Directors in its meeting held on May 21, 2026 elected Mr. A. K. M Ehsan as the Chairman of the Board of Directors of the Company with immediate effect."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:54:32",
+            "MAN_ANNOUNCEMENT_PREFIX": "MEGCONMILK",
+            "MAN_ANNOUNCEMENT": "In response to the DSE query dated June 03, 2026, the company has informed that there is no undisclosed price sensitive information of the company for recent unusual price hike and increase in volume of shares."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:52:31",
+            "MAN_ANNOUNCEMENT_PREFIX": "POWERGRID",
+            "MAN_ANNOUNCEMENT": "The company has informed, through a letter dated June 03, 2026, that the Bangladesh Energy Regulatory Commission (BERC) has revised the Electricity Transmission Tariff (Wheeling Charge). To view details, please visit the following link: https:\/\/www.dsebd.org\/Annexure\/Power-Grid-bd-2026.pdf"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:49:32",
+            "MAN_ANNOUNCEMENT_PREFIX": "NAVANAPHAR",
+            "MAN_ANNOUNCEMENT": "(Cont. news of NAVANAPHAR): 2. The Company has decided to proceed with a Foreign Loan Facilities for EUR 26,610,000.00 for 12 years from AKA Ausfuhrkredit-Gesellschaft mbH, Frankfurt, Germany, the sole arranger of which is KGMC Financial Service, Bangladesh. The Company has decided to avail the aforesaid facilities for expansion of its production facilities. The proposed financing shall remain subject to final approval from the concerned regulatory authorities & completion of due diligence. (end)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:49:28",
+            "MAN_ANNOUNCEMENT_PREFIX": "NAVANAPHAR",
+            "MAN_ANNOUNCEMENT": "(Cont. news of NAVANAPHAR): Reasons for significant deviation in EPS and NOCFPS: Increment of Earnings per Share in the reporting period by 31.52% because of growth of Sales Revenue as well as optimum cost management policy & Net Operating Cash Flow per Share (NOCFPS) has increased to Tk. 15.44 from Tk. 10.22, due to cash received from the customers was higher than the cash payment for operation in the reporting period. (cont.2)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:49:26",
+            "MAN_ANNOUNCEMENT_PREFIX": "NAVANAPHAR",
+            "MAN_ANNOUNCEMENT": "(Q3 Un-audited): EPS was Tk. 1.22 for Jan-March 2026 as against Tk. 1.01 for Jan-March 2025; EPS was Tk. 4.59 for July 2025-March 2026 as against Tk. 3.49 for July 2024-March 2025. Diluted EPS was Tk. 1.20 for Jan-March 2026 and Diluted EPS was Tk. 4.55 for July 2025-March 2026. NOCFPS was Tk. 15.44 for July 2025-March 2026 as against Tk. 10.22 for July 2024-March 2025. NAV per share was Tk. 49.53 as on March 31, 2026 and Tk. 45.29 as on June 30, 2025. (cont.1)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:41:08",
+            "MAN_ANNOUNCEMENT_PREFIX": "ABBLPBOND",
+            "MAN_ANNOUNCEMENT": "There will be no price limit on the trading of the AB Bank Perpetual Bond today (04.06.2026) following its corporate declaration."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:41:02",
+            "MAN_ANNOUNCEMENT_PREFIX": "ABBLPBOND",
+            "MAN_ANNOUNCEMENT": "AB Bank PLC., issuer of AB Bank Perpetual Bond, has informed that MTB Capital Limited, the Trustee Board of the AB Bank Perpetual Bond in its Trustee Meeting held on June 03, 2026 has fixed the Semi-Annual Coupon Rate 10.00% per annum for the period from June 13, 2026 to December 12, 2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:36:35",
+            "MAN_ANNOUNCEMENT_PREFIX": "PREBPBOND",
+            "MAN_ANNOUNCEMENT": "(Cont. News of PREBPBOND): The bondholders, whose name would appear in the Depository Register of the Bank on the Record Date, will be entitled to receive the coupon payment. As per features of the Bond, Bondholders will not get any coupon payment for the period from 27th December 2025 to 26th June 2026 as the Bank has no distributable items i.e. Retained Earnings. (end)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:36:31",
+            "MAN_ANNOUNCEMENT_PREFIX": "PREBPBOND",
+            "MAN_ANNOUNCEMENT": "The Premier Bank PLC. has informed all investors\/bondholders of Public Offer of Premier Bank Perpetual Bond, that the coupon payment for the 9th Half Year period will be calculated from 27th December 2025 to 26th June 2026 for the eligible investors. The Board of Trustee of the Bond fixed up the Record Date i.e. June 25, 2026 for entitlement of semi-annual coupon payment.(cont.)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 09:24:54",
+            "MAN_ANNOUNCEMENT_PREFIX": "DHAKAINS",
+            "MAN_ANNOUNCEMENT": "(Q1 Un-audited): EPS was Tk. 0.53 for January-March 2026 as against Tk. 0.50 for January-March 2025. NOCFPS was Tk. 0.15 for January-March 2026 as against Tk. (0.66) for January-March 2025. NAV per share (with revaluation) was Tk. 37.22 as on March 31, 2026 and Tk. 36.70 as on December 31, 2025. NAV per share (without revaluation) was Tk. 26.59 as on March 31, 2026 and Tk. 26.06 as on December 31, 2025."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:29:11",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXCH",
+            "MAN_ANNOUNCEMENT": "The Investors are requested to lodge their complaints against the TREC Holder Companies and the issuer of listed securities (if any) of DSE through Customer Complaint Address Module (CCAM) (link: https:\/\/www.cdbl.com.bd\/complaints.sec.gov.bd\/) for addressing their complaints virtually."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:25:06",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXCH",
+            "MAN_ANNOUNCEMENT": "DSE NEWS: All Stock Dealers, Stock Brokers and Authorized Representatives are asked to strictly follow the code of conduct as enumerated in the Second Schedule to the Securities and Exchange Commission (Stock Dealer, Stock Broker and Authorized Representative) Rules, 2000."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:25:05",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXCH",
+            "MAN_ANNOUNCEMENT": "(Continuation of DSE News): If anyone spreads information based on rumor, using patent of DSE, he\/she will be held liable under Copyright Act, 2000 and it shall be treated as punishable offence under Section-17 of the Securities and Exchange Ordinance, 1969. (end)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:25:04",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXCH",
+            "MAN_ANNOUNCEMENT": "DSE does not publish market data through any social media pages. INVESTORS should not rely on any information from an unauthorized source such as Facebook, WhatsApp, Viber, Linkedin etc. (cont.)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:25:03",
+            "MAN_ANNOUNCEMENT_PREFIX": "REGL",
+            "MAN_ANNOUNCEMENT": "(Continuation of BSEC News - Awareness Message for Investors) 3. Do not pay any heed to rumors at the time of trading shares; it may cause loss to you. Even spreading rumor is legally prohibited. (Ref.: SEC letter no. SEC\/SRMIC\/2010\/726 dated November 23, 2010). (end)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:25:02",
+            "MAN_ANNOUNCEMENT_PREFIX": "REGL",
+            "MAN_ANNOUNCEMENT": "Investors are requested to consider the following facts at the time of making investment decision in the Capital Market: 1. Without acquiring proper knowledge, information and experience regarding different aspects and matters of Capital Market, one should not invest in the Capital Market. 2. The gain or loss, whichever comes from the investment, it belongs to you. So, well - thought of investment decision based on knowledge and fundamentals of the securities may be real assistance to you. (cont.)"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-04 08:25:01",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXCH",
+            "MAN_ANNOUNCEMENT": "Honorable Investors, Good morning! Please make your investment decision based on Company fundamentals, technical analysis, price level and disclosed information. Avoid rumor-based speculations."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 13:48:23",
+            "MAN_ANNOUNCEMENT_PREFIX": "NTC",
+            "MAN_ANNOUNCEMENT": "The auditor of the company has given the Qualified Opinion, Material Uncertainty Related to Going Concern & Other Matter in the auditor's report for the year ended June 30, 2025. To view the details, please visit: https:\/\/www.dsebd.org\/Auditors_opinion\/2025\/251.%20National%20Tea%20Company%20Limited25.pdf"
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 13:05:39",
+            "MAN_ANNOUNCEMENT_PREFIX": "TB2Y0627",
+            "MAN_ANNOUNCEMENT": "Trading of 02Y BGTB 04\/06\/2027 Government Securities will resume on 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 13:04:57",
+            "MAN_ANNOUNCEMENT_PREFIX": "TB5Y1228",
+            "MAN_ANNOUNCEMENT": "Record Date for entitlement of coupon payment of 05Y BGTB 13\/12\/2028 Government Securities is 11.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 13:04:12",
+            "MAN_ANNOUNCEMENT_PREFIX": "TB5Y0628",
+            "MAN_ANNOUNCEMENT": "Record Date for entitlement of coupon payment of 05Y BGTB 14\/06\/2028 Government Securities is 11.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:56:33",
+            "MAN_ANNOUNCEMENT_PREFIX": "STANDBANKL",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:55:49",
+            "MAN_ANNOUNCEMENT_PREFIX": "PREMIERBAN",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:55:15",
+            "MAN_ANNOUNCEMENT_PREFIX": "JAMUNABANK",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:54:52",
+            "MAN_ANNOUNCEMENT_PREFIX": "ASIAINS",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will resume on 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:54:15",
+            "MAN_ANNOUNCEMENT_PREFIX": "SOUTHEASTB",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will remain suspended on record date i.e., 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:54:02",
+            "MAN_ANNOUNCEMENT_PREFIX": "RUPALIINS",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will remain suspended on record date i.e., 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:53:52",
+            "MAN_ANNOUNCEMENT_PREFIX": "DBH",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will remain suspended on record date i.e., 04.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:53:05",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICICL",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will be allowed only in the Spot Market and Block transaction will also be settled as per spot settlement cycle with cum benefit from 04.06.2026 to 07.06.2026 and trading of the shares will remain suspended on record date i.e., 08.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:52:04",
+            "MAN_ANNOUNCEMENT_PREFIX": "ALARABANK",
+            "MAN_ANNOUNCEMENT": "Trading of the shares of the company will be allowed only in the Spot Market and Block transaction will also be settled as per spot settlement cycle from 04.06.2026 to 08.06.2026 and trading of the shares will remain suspended on record date i.e., 09.06.2026."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:13:48",
+            "MAN_ANNOUNCEMENT_PREFIX": "GLDNJMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.75 per unit on the basis of current market price and Tk. 11.30 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 975,051,445.84 on the basis of current market price and Tk. 1,130,169,203.74 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:12:42",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBAGRANI1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.62 per unit on the basis of current market price and Tk. 12.43 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 944,305,396.53 on the basis of current market price and Tk. 1,220,279,988.37 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:11:33",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBSONALI1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.70 per unit on the basis of current market price and Tk. 12.47 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 869,697,172.33 on the basis of current market price and Tk. 1,246,702,041.78 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:10:17",
+            "MAN_ANNOUNCEMENT_PREFIX": "IFILISLMF1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.35 per unit on the basis of current market price and Tk. 11.23 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 735,356,707.47 on the basis of current market price and Tk. 1,122,557,782.49 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:09:18",
+            "MAN_ANNOUNCEMENT_PREFIX": "PF1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.25 per unit on the basis of current market price and Tk. 12.12 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 495,277,481.62 on the basis of current market price and Tk. 727,120,572.61 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:07:19",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICB3RDNRB",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.07 per unit on the basis of current market price and Tk. 12.22 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 807,336,149.60 on the basis of current market price and Tk. 1,222,482,404.71 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:05:46",
+            "MAN_ANNOUNCEMENT_PREFIX": "PRIME1ICBA",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.14 per unit on the basis of current market price and Tk. 12.74 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 814,442,438.18 on the basis of current market price and Tk. 1,273,596,921.34 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:02:08",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBEPMF1S1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.85 per unit on the basis of current market price and Tk. 12.08 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 589,009,906.26 on the basis of current market price and Tk. 906,237,471.71 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 12:00:46",
+            "MAN_ANNOUNCEMENT_PREFIX": "ICBAMCL2ND",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.87 per unit on the basis of current market price and Tk. 13.10 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 443,383,865.07 on the basis of current market price and Tk. 654,789,175.37 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:59:16",
+            "MAN_ANNOUNCEMENT_PREFIX": "1STPRIMFMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.78 per unit on the basis of current market price and Tk. 15.03 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 175,551,897.30 on the basis of current market price and Tk. 300,508,051.54 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:53:59",
+            "MAN_ANNOUNCEMENT_PREFIX": "TRUSTB1MF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 6.71 per unit on the basis of current market price and Tk. 11.49 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 2,037,885,691.00 on the basis of current market price and Tk. 3,487,520,977.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:52:56",
+            "MAN_ANNOUNCEMENT_PREFIX": "POPULAR1MF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 7.30 per unit on the basis of current market price and Tk. 11.47 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 2,182,366,137.00 on the basis of current market price and Tk. 3,430,776,334.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:51:51",
+            "MAN_ANNOUNCEMENT_PREFIX": "PHPMF1",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 7.14 per unit on the basis of current market price and Tk. 11.38 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 2,011,720,770.00 on the basis of current market price and Tk. 3,208,264,600.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:50:42",
+            "MAN_ANNOUNCEMENT_PREFIX": "IFIC1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.77 per unit on the basis of current market price and Tk. 11.71 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 1,415,438,815.00 on the basis of current market price and Tk. 2,133,178,635.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:49:22",
+            "MAN_ANNOUNCEMENT_PREFIX": "FBFIF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.38 per unit on the basis of current market price and Tk. 11.43 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 5,726,733,462.00 on the basis of current market price and Tk. 8,872,440,983.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:49:05",
+            "MAN_ANNOUNCEMENT_PREFIX": "CAPMIBBLMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.87 per unit on the basis of current market price and Tk. 11.34 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 525,803,263.23 on the basis of current market price and Tk. 758,362,165.28 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:48:12",
+            "MAN_ANNOUNCEMENT_PREFIX": "CAPMBDBLMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 8.30 per unit on the basis of current market price and Tk. 10.93 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 416,103,043.96 on the basis of current market price and Tk. 547,705,121.19 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:48:07",
+            "MAN_ANNOUNCEMENT_PREFIX": "EXIM1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 7.54 per unit on the basis of current market price and Tk. 11.59 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 1,080,495,934.00 on the basis of current market price and Tk. 1,660,125,684.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:47:29",
+            "MAN_ANNOUNCEMENT_PREFIX": "EBLNRBMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 6.56 per unit on the basis of current market price and Tk. 11.37 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 1,471,115,852.00 on the basis of current market price and Tk. 2,549,950,458.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:46:56",
+            "MAN_ANNOUNCEMENT_PREFIX": "VAMLRBBF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 9.05 per unit on the basis of current market price and Tk. 10.69 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 1,436,928,662.77 on the basis of current market price and Tk. 1,697,359,007.71 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:46:44",
+            "MAN_ANNOUNCEMENT_PREFIX": "EBL1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported Net Asset Value (NAV) of Tk. 6.54 per unit on the basis of current market price and Tk. 11.54 per unit on the basis of cost price against face value of Tk. 10.00 whereas total Net Assets of the Fund stood at Tk. 946,012,036.00 on the basis of current market price and Tk. 1,670,467,903.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        },
+        {
+            "MAN_ANNOUNCEMENT_DATE_TIME": "2026-06-03 11:45:26",
+            "MAN_ANNOUNCEMENT_PREFIX": "ABB1STMF",
+            "MAN_ANNOUNCEMENT": "On the close of operation on June 02, 2026, the Fund has reported a Net Asset Value (NAV) of Tk. 7.26 per unit on the basis of current market price and Tk. 11.70 per unit on the basis of cost price against face value of Tk. 10.00, whereas the total Net Assets of the Fund stood at Tk. 1,736,296,545.00 on the basis of current market price and Tk. 2,797,721,444.00 on the basis of cost price after considering all assets and liabilities of the Fund."
+        }
+    ]
+}

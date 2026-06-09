@@ -1,0 +1,260 @@
+[
+    {
+        "status": true,
+        "by": "value",
+        "data": [
+             {
+            "INSTRUMENT_CODE": "NCCBANK",
+            "CHANGE_PCT_YDAY_CLOSE": "0.65",
+            "LAST_TRADED_PRICE": "15.50",
+            "YDAY_CLOSE_PRICE": "15.40",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "339.879000"
+        },
+        {
+            "INSTRUMENT_CODE": "GENEXIL",
+            "CHANGE_PCT_YDAY_CLOSE": "10.00",
+            "LAST_TRADED_PRICE": "34.10",
+            "YDAY_CLOSE_PRICE": "31.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "339.109000"
+        },
+        {
+            "INSTRUMENT_CODE": "NAVANAPHAR",
+            "CHANGE_PCT_YDAY_CLOSE": "1.75",
+            "LAST_TRADED_PRICE": "75.40",
+            "YDAY_CLOSE_PRICE": "74.10",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "214.196000"
+        },
+        {
+            "INSTRUMENT_CODE": "MONOSPOOL",
+            "CHANGE_PCT_YDAY_CLOSE": "5.77",
+            "LAST_TRADED_PRICE": "109.90",
+            "YDAY_CLOSE_PRICE": "103.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "202.148000"
+        },
+        {
+            "INSTRUMENT_CODE": "MONNOCERA",
+            "CHANGE_PCT_YDAY_CLOSE": "5.00",
+            "LAST_TRADED_PRICE": "102.90",
+            "YDAY_CLOSE_PRICE": "98.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "201.080000"
+        },
+        {
+            "INSTRUMENT_CODE": "QUASEMIND",
+            "CHANGE_PCT_YDAY_CLOSE": "5.24",
+            "LAST_TRADED_PRICE": "46.20",
+            "YDAY_CLOSE_PRICE": "43.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "197.022000"
+        },
+        {
+            "INSTRUMENT_CODE": "LOVELLO",
+            "CHANGE_PCT_YDAY_CLOSE": "2.32",
+            "LAST_TRADED_PRICE": "75.00",
+            "YDAY_CLOSE_PRICE": "73.30",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "196.595000"
+        },
+        {
+            "INSTRUMENT_CODE": "JAMUNABANK",
+            "CHANGE_PCT_YDAY_CLOSE": "-9.67",
+            "LAST_TRADED_PRICE": "24.30",
+            "YDAY_CLOSE_PRICE": "26.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "196.446000"
+        },
+        {
+            "INSTRUMENT_CODE": "SUNLIFEINS",
+            "CHANGE_PCT_YDAY_CLOSE": "9.06",
+            "LAST_TRADED_PRICE": "75.80",
+            "YDAY_CLOSE_PRICE": "69.50",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "195.255000"
+        },
+        {
+            "INSTRUMENT_CODE": "MIRAKHTER",
+            "CHANGE_PCT_YDAY_CLOSE": "-3.19",
+            "LAST_TRADED_PRICE": "45.50",
+            "YDAY_CLOSE_PRICE": "47.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VALUE": "175.673000"
+        }
+        ]
+    },
+    {
+        "status": true,
+        "by": "trades",
+        "data": [
+              {
+            "INSTRUMENT_CODE": "GENEXIL",
+            "CHANGE_PCT_YDAY_CLOSE": "10.00",
+            "LAST_TRADED_PRICE": "34.10",
+            "YDAY_CLOSE_PRICE": "31.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 7204
+        },
+        {
+            "INSTRUMENT_CODE": "MONOSPOOL",
+            "CHANGE_PCT_YDAY_CLOSE": "5.77",
+            "LAST_TRADED_PRICE": "109.90",
+            "YDAY_CLOSE_PRICE": "103.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 5277
+        },
+        {
+            "INSTRUMENT_CODE": "MONNOCERA",
+            "CHANGE_PCT_YDAY_CLOSE": "5.00",
+            "LAST_TRADED_PRICE": "102.90",
+            "YDAY_CLOSE_PRICE": "98.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 4891
+        },
+        {
+            "INSTRUMENT_CODE": "ORIONINFU",
+            "CHANGE_PCT_YDAY_CLOSE": "1.35",
+            "LAST_TRADED_PRICE": "315.30",
+            "YDAY_CLOSE_PRICE": "311.10",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 4650
+        },
+        {
+            "INSTRUMENT_CODE": "RDFOOD",
+            "CHANGE_PCT_YDAY_CLOSE": "-2.68",
+            "LAST_TRADED_PRICE": "29.00",
+            "YDAY_CLOSE_PRICE": "29.80",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 4523
+        },
+        {
+            "INSTRUMENT_CODE": "LOVELLO",
+            "CHANGE_PCT_YDAY_CLOSE": "2.32",
+            "LAST_TRADED_PRICE": "75.00",
+            "YDAY_CLOSE_PRICE": "73.30",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 4426
+        },
+        {
+            "INSTRUMENT_CODE": "NAVANAPHAR",
+            "CHANGE_PCT_YDAY_CLOSE": "1.75",
+            "LAST_TRADED_PRICE": "75.40",
+            "YDAY_CLOSE_PRICE": "74.10",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 4135
+        },
+        {
+            "INSTRUMENT_CODE": "BSC",
+            "CHANGE_PCT_YDAY_CLOSE": "4.93",
+            "LAST_TRADED_PRICE": "108.60",
+            "YDAY_CLOSE_PRICE": "103.50",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 4131
+        },
+        {
+            "INSTRUMENT_CODE": "BBSCABLES",
+            "CHANGE_PCT_YDAY_CLOSE": "-2.01",
+            "LAST_TRADED_PRICE": "24.40",
+            "YDAY_CLOSE_PRICE": "24.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 3664
+        },
+        {
+            "INSTRUMENT_CODE": "QUASEMIND",
+            "CHANGE_PCT_YDAY_CLOSE": "5.24",
+            "LAST_TRADED_PRICE": "46.20",
+            "YDAY_CLOSE_PRICE": "43.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_TRADES": 3515
+        }
+        ]
+    },
+    {
+    "status": true,
+    "by": "volume",
+    "data": [
+        {
+            "INSTRUMENT_CODE": "NCCBANK",
+            "CHANGE_PCT_YDAY_CLOSE": "0.65",
+            "LAST_TRADED_PRICE": "15.50",
+            "YDAY_CLOSE_PRICE": "15.40",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 21982432
+        },
+        {
+            "INSTRUMENT_CODE": "GENEXIL",
+            "CHANGE_PCT_YDAY_CLOSE": "10.00",
+            "LAST_TRADED_PRICE": "34.10",
+            "YDAY_CLOSE_PRICE": "31.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 10280175
+        },
+        {
+            "INSTRUMENT_CODE": "JAMUNABANK",
+            "CHANGE_PCT_YDAY_CLOSE": "-9.67",
+            "LAST_TRADED_PRICE": "24.30",
+            "YDAY_CLOSE_PRICE": "26.90",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 8049488
+        },
+        {
+            "INSTRUMENT_CODE": "SILCOPHL",
+            "CHANGE_PCT_YDAY_CLOSE": "9.71",
+            "LAST_TRADED_PRICE": "19.20",
+            "YDAY_CLOSE_PRICE": "17.50",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 6663498
+        },
+        {
+            "INSTRUMENT_CODE": "ACMEPL",
+            "CHANGE_PCT_YDAY_CLOSE": "-1.92",
+            "LAST_TRADED_PRICE": "25.60",
+            "YDAY_CLOSE_PRICE": "26.10",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 5994284
+        },
+        {
+            "INSTRUMENT_CODE": "GOLDENSON",
+            "CHANGE_PCT_YDAY_CLOSE": "-1.18",
+            "LAST_TRADED_PRICE": "16.80",
+            "YDAY_CLOSE_PRICE": "17.00",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 5923437
+        },
+        {
+            "INSTRUMENT_CODE": "ETL",
+            "CHANGE_PCT_YDAY_CLOSE": "0.00",
+            "LAST_TRADED_PRICE": "11.60",
+            "YDAY_CLOSE_PRICE": "11.60",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 5817475
+        },
+        {
+            "INSTRUMENT_CODE": "MTB",
+            "CHANGE_PCT_YDAY_CLOSE": "0.00",
+            "LAST_TRADED_PRICE": "12.60",
+            "YDAY_CLOSE_PRICE": "12.60",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 5607082
+        },
+        {
+            "INSTRUMENT_CODE": "RDFOOD",
+            "CHANGE_PCT_YDAY_CLOSE": "-2.68",
+            "LAST_TRADED_PRICE": "29.00",
+            "YDAY_CLOSE_PRICE": "29.80",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 5400726
+        },
+        {
+            "INSTRUMENT_CODE": "ABB1STMF",
+            "CHANGE_PCT_YDAY_CLOSE": "3.23",
+            "LAST_TRADED_PRICE": "3.20",
+            "YDAY_CLOSE_PRICE": "3.10",
+            "MOVING_RANGE_52W": 0,
+            "TOTAL_VOLUME": 5128198
+        }
+        ]
+    }
+]

@@ -1,0 +1,91 @@
+{
+    "success": true,
+    "message": "Dividend data retrieved successfully",
+    "data": {
+        "instrument_code": "SQURPHARMA",
+        "cash_dividend": [
+            {
+                "year": 2025,
+                "amount": "120.00"
+            },
+            {
+                "year": 2024,
+                "amount": "110.00"
+            },
+            {
+                "year": 2023,
+                "amount": "105.00"
+            },
+            {
+                "year": 2022,
+                "amount": "100.00"
+            },
+            {
+                "year": 2021,
+                "amount": "60.00"
+            },
+            {
+                "year": 2020,
+                "amount": "47.00"
+            },
+            {
+                "year": 2019,
+                "amount": "42.00"
+            },
+            {
+                "year": 2018,
+                "amount": "36.00"
+            },
+            {
+                "year": 2017,
+                "amount": "35.00"
+            },
+            {
+                "year": 2016,
+                "amount": "40.00"
+            },
+            {
+                "year": 2015,
+                "amount": "30.00"
+            }
+        ],
+        "stock_dividend": [
+            {
+                "year": 2020,
+                "amount": "5.00"
+            },
+            {
+                "year": 2019,
+                "amount": "7.00"
+            },
+            {
+                "year": 2018,
+                "amount": "7.00"
+            },
+            {
+                "year": 2017,
+                "amount": "7.50"
+            },
+            {
+                "year": 2016,
+                "amount": "10.00"
+            },
+            {
+                "year": 2015,
+                "amount": "12.50"
+            },
+            {
+                "year": 2014,
+                "amount": "15.00"
+            },
+            {
+                "year": 2013,
+                "amount": "30.00"
+            },
+            {
+                "year": 2012,
+                "amount": "40.00"
+            }
+        ]
+    }
+}

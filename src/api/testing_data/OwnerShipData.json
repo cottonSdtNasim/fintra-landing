@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "message": "Ownership data retrieved successfully",
+  "data": {
+    "instrument_code": "SQURPHARMA",
+    "ownership": [
+      {
+        "year": 2025,
+        "sponsor_director": 120.00,
+        "government": 0.00,
+        "institution": 15.50,
+        "foreign": 8.25,
+        "public": 56.25
+      },
+      {
+        "year": 2025,
+        "sponsor_director": 120.00,
+        "government": 0.00,
+        "institution": 15.50,
+        "foreign": 8.25,
+        "public": 56.25
+      }
+    ]
+  }
+}
